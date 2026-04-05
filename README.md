@@ -145,7 +145,7 @@ prompts_used.md
 │
 ├── prompts_used.md
 └── README.md
-```![n8n-workflow](https://github.com/user-attachments/assets/7dee3388-aae4-47ca-9c12-1321e67a2f09)
+
 
 
 ---
@@ -156,9 +156,9 @@ prompts_used.md
 
 
 
-```
-screenshots/n8n-workflow.png
-```
+
+<img width="1366" height="569" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/075a3157-6dc8-417c-a94b-50906cabd94f" />
+
 
 ### KPI Dashboard (Quadratic)
 
