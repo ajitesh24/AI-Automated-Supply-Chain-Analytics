@@ -157,7 +157,8 @@ prompts_used.md
 
 
 
-<img width="1366" height="569" alt="Screenshot (380)" src="https://github.com/user-attachments/assets/075a3157-6dc8-417c-a94b-50906cabd94f" />
+<img width="1920" height="803" alt="image" src="https://github.com/user-attachments/assets/24caa9e9-211f-4bf9-b71e-fb036cce916a" />
+
 
 
 ### KPI Dashboard (Quadratic)
