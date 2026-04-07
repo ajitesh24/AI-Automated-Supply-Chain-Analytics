@@ -201,18 +201,3 @@ This project replicates a **real logistics analytics workflow used by operations
 
 ---
 
-# 👨‍💻 Author
-
-**Ajitesh Prakash**
-
----
-
-# ⭐ GitHub Repo Description (paste in description box)
-
-Use this:
-
-> End-to-end Supply Chain Analytics pipeline using n8n automation, Supabase PostgreSQL, and Quadratic AI spreadsheet for OTIF KPI dashboards and delivery performance insights.
-
----
-
-If you upload your screenshots next, I can help you **add animated preview GIF section** (very powerful for recruiter impact 🚀).
